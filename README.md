@@ -63,14 +63,28 @@ I'm an undergraduate student at **VIT Chennai**, passionate about leveraging tec
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harxnee&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harxnee&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harxnee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harxnee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harxnee&theme=radical" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harxnee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harxnee&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="90%"/>
+</p>
+
+---
+
+## 💻 Recent Activity
+
+```text
+🔥 Building innovative ML models and web applications
+📚 Learning advanced algorithms and system design
+🎯 Contributing to open-source projects
+```
 
 ---
 
