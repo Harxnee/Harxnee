@@ -88,7 +88,6 @@ I'm always open to discussing software engineering, system design, or collaborat
 
 **Email:** harineejaykumar07@gmail.com  
 **LinkedIn:** [Harinee J](https://www.linkedin.com/in/harinee-j-298529234/)  
-**Phone:** +91-9176285666
 
 ---
 
